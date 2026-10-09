@@ -1,0 +1,5 @@
+node_m
+odules/
+.env
+dist/
+.DS_Store
